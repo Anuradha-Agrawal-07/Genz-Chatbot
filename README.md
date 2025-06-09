@@ -104,17 +104,12 @@ Having issues? Found a bug? Want to suggest a new personality?
 💬 General Chat: Slide into our mentions  
 ⭐ Show Love: Star the project if you're vibing with it!  
 
-## 📜 License  
-This project is licensed under the "Do Whatever You Want But Give Credit" license 😄  
-Translation: MIT License - feel free to use, modify, and distribute!  
-
 <div align="center">  
 🎀 Made with 💗 and lots of ✨  
 Pookie Mimi - Because every conversation deserves some personality!  
 Now go forth and chat with your new AI bestie! 💅✨  
 </div>  
 
-## 🏷️ Tags  
-#AI #Chatbot #GenZ #Streamlit #Firebase #Python #MachineLearning #ImageCaptioning #PersonalityAI #WebApp #OAuth #CloudComputing #NLP #ConversationalAI #TechProject
+
 
 
