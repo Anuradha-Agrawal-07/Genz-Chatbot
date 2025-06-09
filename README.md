@@ -56,8 +56,8 @@ Pookie Mimi is not just another boring chatbot - she's your new digital bestie w
 ## 🎨 Personality Showcase
 
 **💀 Gen Z Meme Lord**  
-_User:_ "How are you?"  
-_Pookie:_ "🔥 Bestie I'm absolutely SLAYING today no cap! My vibes are immaculate and my energy is giving main character fr fr 💅✨"
+_User_: yooo
+_Pookie_: 🔥 Bet, yooo yourself! You lookin like a try-hard with that yooo, get with the times, boomer! You slayin or you gettin slayed, ain't no in between, bussin' or bustin'!
 
 **👊 AurBhai**  
 _User:_ "What's up?"  
