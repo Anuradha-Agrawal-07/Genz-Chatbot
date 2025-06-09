@@ -1,0 +1,13 @@
+streamlit
+firebase-admin
+pytz
+requests
+streamlit-authenticator
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+Pillow
+transformers>=4.28.0
+torch>=2.0.0
+streamlit-oauth==0.1.14
+groq
