@@ -1,106 +1,120 @@
-# 🎀💗 POOKIE MIMI - Your AI Bestie 💗🎀
+# 🎀 Pookie Mimi - Your AI Bestie 💗  
 
-The cutest AI chatbot with multiple personalities that'll make you go "no cap, this is bussin!" 🔥
+> The AI chatbot with ✨multiple personalities✨, Gen Z vibes, and a whole lot of sass.
 
-**Try it live**: https://pookie-mimi.onrender.com/
+[🔗 Live Demo](https://pookie-mimi.onrender.com/)
 
+---
 
-## ✨ What is Pookie Mimi? ✨  
-Pookie Mimi is not just another boring chatbot - she's your new digital bestie who can switch vibes faster than you can say "slay queen!" 👑 With 6 unique personalities and vibe checking powers, she's here to serve looks and conversations 24/7!
+## ✨ What is Pookie Mimi?
 
-## 🌟 Features That'll Make You Say "PERIODT!" 🌟  
-### 🎭 6 Iconic Personalities  
-- 🔥 Default - Your smart, helpful assistant (boring but reliable bestie)  
-- 💀 Gen Z Meme Lord - Rizz master who speaks in pure Gen Z slang (chef's kiss)  
-- 👊 AurBhai - Your Delhi bhai who keeps it 💯 real in Hindi  
-- 🧚‍♀️ Soft Girl - Sparkles ✨ and hearts 💖 overload (tooth-rotting sweetness)  
-- 😭 Sad Boi - For those 3 AM feels and existential crisis moments  
-- 🤯 Overthinker - Analyzes everything like Sherlock Holmes on caffeine  
+**Pookie Mimi** is your digital bestie powered by AI. It switches between 6 distinct personalities — from a Gen Z meme lord to a soft girl to a Hindi-speaking bro — all while remembering conversations, checking compatibility between names, and delivering vibes that match your mood.
+
+---
+
+## 🌟 Features
+
+### 🎭 Multi-Personality Chat
+Choose from 6 unique personas:
+- 🧠 Default – Reliable assistant
+- 💀 Gen Z Meme Lord – Slang, sass & rizz
+- 👊 AurBhai – Delhi-style Hindi banter
+- 🧚‍♀️ Soft Girl – Sparkles and support
+- 😭 Sad Boi – Emotional and empathetic
+- 🤯 Overthinker – Deep, analytical thinker
 
 ### 💘 Vibe Matcher
+- Compatibility score for any two names
+- Gen Z-style relationship captions
 
-- 🔮 Compatibility Checker - Enter two names and get their vibe match percentage
-- 🎯 Gen Z Fortune Telling - Get unhinged, viral-worthy compatibility captions
+### 🔐 Secure & Smart
+- Google OAuth login (no password stress)
+- Firebase storage (chat data safety)
+- Auto-deletion of inactive accounts
+- Per-personality memory — no vibe mixing
 
-### 🔐 Secure & Smart  
-- Google OAuth login (no sketchy stuff here)  
-- Firebase cloud storage (your chats are safe in the cloud ☁️)  
-- Auto-cleanup inactive accounts (Marie Kondo approved ✨)  
-- Separate chat histories for each personality (no mixing the vibes!)  
+---
 
-## 🚀 Tech Stack (For the Nerds) 🤓  
-| Technology   | Purpose            | Status       |  
-|--------------|--------------------|--------------|  
-| Streamlit    | Frontend Framework | ✅ Deployed  |  
-| Firebase     | Database & Auth    | ✅ Connected |  
-| Groq API     | AI Brain Power     | ✅ Integrated|  
-| Google OAuth | Secure Login       | ✅ Working   |  
-| PyTorch      | ML Backend         | ✅ Running   |  
+## 🧠 Tech Stack
 
-## 🎯 How to Use (It's Giving Tutorial Vibes) 📱  
-**Step 1: Sign In 🔑**  
-- Click "Sign in with Google"  
-- No password drama, just one click and you're in!  
+| Technology      | Purpose                | Status        |
+|----------------|------------------------|---------------|
+| Streamlit       | Frontend Framework     | ✅ Deployed    |
+| Firebase        | Auth & Firestore       | ✅ Integrated  |
+| Groq API        | AI Model Integration   | ✅ Live        |
+| Google OAuth    | Authentication         | ✅ Secure      |
+| PyTorch + BLIP  | ML Backend             | ✅ Ready       |
 
-**Step 2: Choose Your Vibe 🎭**  
-- Pick from 6 personalities based on your mood  
-- Each personality remembers your previous conversations (mind = blown 🤯)  
+---
 
-**Step 3: Start Chatting 💬**  
-- Type anything in the chat box  
-- Watch Pookie Mimi serve you responses that match the vibe  
-- Switch personalities anytime without losing your chat history!  
+## 📱 How to Use
 
-**Step 4: Check Vibes (Optional) 💘**
+1. **Sign In with Google** – Fast, secure login  
+2. **Choose a Personality** – Pick your current vibe  
+3. **Chat Freely** – Fun, helpful, personalized convos  
+4. **Use Vibe Matcher** – Optional name compatibility tool  
+5. **Switch Personalities Anytime** – Chat history is retained
 
-- Use the sidebar "Vibe Matcher" feature
-- Enter two names to get their compatibility score
-- Get hilarious Gen Z-style relationship analysis!
+---
 
 ## 🎨 Personality Showcase
 
 **💀 Gen Z Meme Lord**  
-_User_: yooo
-_Pookie_: 🔥 Bet, yooo yourself! You lookin like a try-hard with that yooo, get with the times, boomer! You slayin or you gettin slayed, ain't no in between, bussin' or bustin'!
+`User:` yo  
+`Pookie:` Bet 🔥 you slayin’ or gettin’ slayed, no in-between.
 
 **👊 AurBhai**  
-_User:_ "What's up?"  
-_Pookie:_ "💪 Kya haal hai bhai! Sab badhiya chal raha hai, tu bata tera kya scene hai? 😎"
+`User:` what’s up?  
+`Pookie:` Kya haal hai bhai? Tera kya scene hai? 😎
 
 **🧚‍♀️ Soft Girl**  
-_User:_ "I'm sad"  
-_Pookie:_ "🌸 Aww sweetie 💖✨ sending you the biggest virtual hug right now! You're absolutely precious and everything will be okay darling 🥺💕✨"
+`User:` I'm sad  
+`Pookie:` Aww sweetie 💖✨ sending a big hug, you got this 🌸💕
 
-## 🔒 Privacy & Security (We're Not Sus)  
- 
-✅ Secure OAuth - Google handles the heavy lifting  
-✅ Auto cleanup - Inactive accounts get Marie Kondo'd after 4 days  
-✅ Firebase security - Your chats are encrypted and safe  
-✅ No sketchy stuff - We're transparent about everything  
+---
 
-## 🐛 Known Issues (We're Working On It)  
-- 🔄 Occasional loading delays during high traffic
-- 📱 Mobile experience could be more responsive
-- 🎭 Personality switching might take a hot second
-- 🔄 Batch cleanup might cause brief "maintenance" messages
+## 🔐 Privacy & Security
 
-## 🚀 Future Updates (Coming Soon™)  
-- 🎵 Music personality - For those playlist vibes  
-- 🎨 Artist mode - Creative and aesthetic responses  
-- 📚 Study buddy - Academic support personality  
-- 🎮 Gaming bro - For the gamers out there  
-- 🌍 Travel guide - Wanderlust personality  
-- 🖼️ Image captioning - Upload pics for trendy captions
+- Google OAuth = secure, password-free login  
+- Firebase = encrypted cloud-based chat memory  
+- Inactive accounts deleted after 4 days  
+- Each personality has separate chat history
 
-## 💝 Credits & Acknowledgments  
-- 🤖 Groq - For the lightning-fast AI responses
-- 🔥 Firebase - For reliable cloud infrastructure
-- 🔐 Google OAuth - For secure authentication
-- 💖 Streamlit - For making web apps this easy
-- 🎨 streamlit-oauth - For seamless OAuth integration
-- ✨ You - For using Pookie Mimi and being awesome!
+---
 
-## This app was independently designed and developed with care.  
+## 🐛 Known Issues
+
+- Some loading delays during high traffic  
+- Mobile responsiveness improvements needed  
+- Personality switch may lag briefly  
+- Maintenance messages during batch cleanups
+
+---
+
+## 🚧 Coming Soon
+
+- 🎵 Music Personality  
+- 🎨 Artist Mode  
+- 📚 Study Buddy  
+- 🎮 Gamer Bro  
+- 🌍 Travel Guide  
+- 🖼️ Image Captioning
+
+---
+
+## 🙌 Credits & Thanks
+
+- **Groq API** – Blazing-fast LLM power  
+- **Firebase** – Auth + Real-time DB  
+- **Google OAuth** – Smooth login flow  
+- **Streamlit** – Simplicity in frontend  
+- **streamlit-oauth** – Auth integration  
+- **You** – For trying Pookie Mimi 💗
+
+---
+
+## 💬 Feedback & Contributions
+
 For any issues, suggestions, or feedback:
 
 - 🐛 Bug reports  
@@ -108,14 +122,12 @@ For any issues, suggestions, or feedback:
 - 💬 General feedback  
 
 Feel free to reach out or star the project if you found it helpful.
- 
 
 <div align="center">  
 🎀 Made with 💗 and lots of ✨  
 Pookie Mimi - Because every conversation deserves some personality!  
 Now go forth and chat with your new AI bestie! 💅✨  
 </div>  
-
 > This app is powered by ✨ sleepless nights, coffee, and delulu energy ✨
 
 
