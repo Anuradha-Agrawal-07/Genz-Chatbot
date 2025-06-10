@@ -83,6 +83,7 @@ Choose from 6 unique personas:
 
 ## 🐛 Known Issues
 
+- Shows 502 Gateway Error due to Network Issues(Try Refreshing it and it will work!)
 - Some loading delays during high traffic  
 - Mobile responsiveness improvements needed  
 - Personality switch may lag briefly  
