@@ -76,10 +76,10 @@ _Pookie:_ "🌸 Aww sweetie 💖✨ sending you the biggest virtual hug right no
 ✅ No sketchy stuff - We're transparent about everything  
 
 ## 🐛 Known Issues (We're Working On It)  
--🔄 Occasional loading delays during high traffic
--📱 Mobile experience could be more responsive
--🎭 Personality switching might take a hot second
--🔄 Batch cleanup might cause brief "maintenance" messages
+- 🔄 Occasional loading delays during high traffic
+- 📱 Mobile experience could be more responsive
+- 🎭 Personality switching might take a hot second
+- 🔄 Batch cleanup might cause brief "maintenance" messages
 
 ## 🚀 Future Updates (Coming Soon™)  
 - 🎵 Music personality - For those playlist vibes  
