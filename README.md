@@ -14,9 +14,10 @@ Pookie Mimi is not just another boring chatbot - she's your new digital bestie w
 - 😭 Sad Boi - For those 3 AM feels and existential crisis moments  
 - 🤯 Overthinker - Analyzes everything like Sherlock Holmes on caffeine  
 
-### 📸 Image Magic  
-- 📸 Caption Me! - Get trendy Gen Z captions that'll break the internet  
-- 🤓 Describe Me! - Detailed image descriptions (because sometimes you need the facts)  
+###💘 Vibe Matcher
+
+- 🔮 Compatibility Checker - Enter two names and get their vibe match percentage
+- 🎯 Gen Z Fortune Telling - Get unhinged, viral-worthy compatibility captions
 
 ### 🔐 Secure & Smart  
 - Google OAuth login (no sketchy stuff here)  
@@ -48,10 +49,11 @@ Pookie Mimi is not just another boring chatbot - she's your new digital bestie w
 - Watch Pookie Mimi serve you responses that match the vibe  
 - Switch personalities anytime without losing your chat history!  
 
-**Step 4: Upload Images (Optional) 📷**  
-- Use the sidebar to upload any image  
-- Get either trendy captions or detailed descriptions  
-- Perfect for your next Insta post! 📸  
+**Step 4: Check Vibes (Optional) 💘**
+
+- Use the sidebar "Vibe Matcher" feature
+- Enter two names to get their compatibility score
+- Get hilarious Gen Z-style relationship analysis!
 
 ## 🎨 Personality Showcase
 
@@ -75,10 +77,10 @@ _Pookie:_ "🌸 Aww sweetie 💖✨ sending you the biggest virtual hug right no
 ✅ No sketchy stuff - We're transparent about everything  
 
 ## 🐛 Known Issues (We're Working On It)  
-- 🔄 Occasional loading delays during high traffic  
-- 📱 Mobile experience could be more responsive  
-- 🎭 Personality switching might take a hot second  
-- 🖼️ Large images might take time to process  
+-🔄 Occasional loading delays during high traffic
+-📱 Mobile experience could be more responsive
+-🎭 Personality switching might take a hot second
+-🔄 Batch cleanup might cause brief "maintenance" messages
 
 ## 🚀 Future Updates (Coming Soon™)  
 - 🎵 Music personality - For those playlist vibes  
@@ -86,29 +88,32 @@ _Pookie:_ "🌸 Aww sweetie 💖✨ sending you the biggest virtual hug right no
 - 📚 Study buddy - Academic support personality  
 - 🎮 Gaming bro - For the gamers out there  
 - 🌍 Travel guide - Wanderlust personality  
-- 📱 Mobile app - Native iOS/Android versions  
+- 🖼️ Image captioning - Upload pics for trendy captions
 
 ## 💝 Credits & Acknowledgments  
-🤖 Groq - For the lightning-fast AI responses  
-🔥 Firebase - For reliable cloud infrastructure  
-🖼️ Salesforce BLIP - For amazing image captioning  
-🔐 Google OAuth - For secure authentication  
-💖 Streamlit - For making web apps this easy  
-✨ You - For using Pookie Mimi and being awesome!  
+- 🤖 Groq - For the lightning-fast AI responses
+- 🔥 Firebase - For reliable cloud infrastructure
+- 🔐 Google OAuth - For secure authentication
+- 💖 Streamlit - For making web apps this easy
+- 🎨 streamlit-oauth - For seamless OAuth integration
+- ✨ You - For using Pookie Mimi and being awesome!
 
-## 📞 Support & Contact  
-Having issues? Found a bug? Want to suggest a new personality?  
+## This app was independently designed and developed with care.  
+For any issues, suggestions, or feedback:
 
-🐛 Bug Reports: Create detailed issue descriptions  
-💡 Feature Requests: We love creative ideas!  
-💬 General Chat: Slide into our mentions  
-⭐ Show Love: Star the project if you're vibing with it!  
+- 🐛 Bug reports  
+- 💡 Feature ideas  
+- 💬 General feedback  
+Feel free to reach out or star the project if you found it helpful.
+ 
 
 <div align="center">  
 🎀 Made with 💗 and lots of ✨  
 Pookie Mimi - Because every conversation deserves some personality!  
 Now go forth and chat with your new AI bestie! 💅✨  
 </div>  
+
+> This app is powered by ✨ sleepless nights, coffee, and delulu energy ✨
 
 
 
