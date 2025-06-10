@@ -3,7 +3,7 @@
 The cutest AI chatbot with multiple personalities that'll make you go "no cap, this is bussin!" 🔥
 
 ## ✨ What is Pookie Mimi? ✨  
-Pookie Mimi is not just another boring chatbot - she's your new digital bestie who can switch vibes faster than you can say "slay queen!" 👑 With 6 unique personalities and image captioning powers, she's here to serve looks and conversations 24/7!
+Pookie Mimi is not just another boring chatbot - she's your new digital bestie who can switch vibes faster than you can say "slay queen!" 👑 With 6 unique personalities and vibe checking powers, she's here to serve looks and conversations 24/7!
 
 ## 🌟 Features That'll Make You Say "PERIODT!" 🌟  
 ### 🎭 6 Iconic Personalities  
@@ -32,7 +32,6 @@ Pookie Mimi is not just another boring chatbot - she's your new digital bestie w
 | Firebase     | Database & Auth    | ✅ Connected |  
 | Groq API     | AI Brain Power     | ✅ Integrated|  
 | Google OAuth | Secure Login       | ✅ Working   |  
-| BLIP Model   | Image Captioning   | ✅ Loaded    |  
 | PyTorch      | ML Backend         | ✅ Running   |  
 
 ## 🎯 How to Use (It's Giving Tutorial Vibes) 📱  
@@ -70,7 +69,7 @@ _User:_ "I'm sad"
 _Pookie:_ "🌸 Aww sweetie 💖✨ sending you the biggest virtual hug right now! You're absolutely precious and everything will be okay darling 🥺💕✨"
 
 ## 🔒 Privacy & Security (We're Not Sus)  
-✅ No image storage - Your pics are processed and forgotten  
+ 
 ✅ Secure OAuth - Google handles the heavy lifting  
 ✅ Auto cleanup - Inactive accounts get Marie Kondo'd after 4 days  
 ✅ Firebase security - Your chats are encrypted and safe  
