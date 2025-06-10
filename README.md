@@ -128,6 +128,7 @@ Feel free to reach out or star the project if you found it helpful.
 Pookie Mimi - Because every conversation deserves some personality!  
 Now go forth and chat with your new AI bestie! 💅✨  
 </div>  
+
 > This app is powered by ✨ sleepless nights, coffee, and delulu energy ✨
 
 
