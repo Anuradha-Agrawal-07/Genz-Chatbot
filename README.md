@@ -43,7 +43,6 @@ Choose from 6 unique personas:
 | Firebase        | Auth & Firestore       | ✅ Integrated  |
 | Groq API        | AI Model Integration   | ✅ Live        |
 | Google OAuth    | Authentication         | ✅ Secure      |
-| PyTorch + BLIP  | ML Backend             | ✅ Ready       |
 
 ---
 
