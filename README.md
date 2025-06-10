@@ -104,6 +104,7 @@ For any issues, suggestions, or feedback:
 - 🐛 Bug reports  
 - 💡 Feature ideas  
 - 💬 General feedback  
+
 Feel free to reach out or star the project if you found it helpful.
  
 
