@@ -14,7 +14,7 @@ Pookie Mimi is not just another boring chatbot - she's your new digital bestie w
 - 😭 Sad Boi - For those 3 AM feels and existential crisis moments  
 - 🤯 Overthinker - Analyzes everything like Sherlock Holmes on caffeine  
 
-###💘 Vibe Matcher
+### 💘 Vibe Matcher
 
 - 🔮 Compatibility Checker - Enter two names and get their vibe match percentage
 - 🎯 Gen Z Fortune Telling - Get unhinged, viral-worthy compatibility captions
