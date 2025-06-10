@@ -1,6 +1,8 @@
 # 🎀💗 POOKIE MIMI - Your AI Bestie 💗🎀
 
 The cutest AI chatbot with multiple personalities that'll make you go "no cap, this is bussin!" 🔥
+**Try it live**: https://pookie-mimi.onrender.com/
+
 
 ## ✨ What is Pookie Mimi? ✨  
 Pookie Mimi is not just another boring chatbot - she's your new digital bestie who can switch vibes faster than you can say "slay queen!" 👑 With 6 unique personalities and vibe checking powers, she's here to serve looks and conversations 24/7!
